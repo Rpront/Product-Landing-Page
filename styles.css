@@ -106,3 +106,116 @@ main{
     margin: 100px auto;
 }
 
+.Cuadros{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Cuadro-1{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.Cuadro-2{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  
+}
+
+.Cuadro-3{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+.Cuadros header{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: #ddd;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.Cuadros h1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 15px;
+}
+
+.Cuadros ol{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 15px 0;
+}
+
+.Cuadros li{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    list-style: none;
+    padding: 5px 0;}
+
+.Cuadros button{
+    box-sizing: border-box;
+    padding: 0 20px;
+    height: 40px;
+    font-size: 1em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    background: transparent;
+    cursor: pointer;
+    border: 0;
+    margin: 15px 0;
+    background-color: #f1c40f;
+    font-weight: 400;
+}
+
+main{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
