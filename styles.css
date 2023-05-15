@@ -52,9 +52,6 @@ nav ul{
     height: 100%;
     max-width: 60px;
 }
-main{
-    margin-top: 100px;
-}
 
 .Formulario{
     display:block;
@@ -218,4 +215,24 @@ main{
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
+    margin-top: 100px;
+}
+
+footer{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: #ddd;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+
+footer a {
+    margin-left: 10px;
 }
